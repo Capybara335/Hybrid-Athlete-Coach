@@ -2,6 +2,7 @@
 A skill for Claude you can use to create a personalized coach that improves your running, lifting, cycling etc
 
 ---
+<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/6e2d580a-49da-442f-ad83-c78b9cba4a85" />
 
 ## What This Is
 
@@ -72,6 +73,9 @@ This is the easiest and most reliable setup for ongoing use.
 5. Now Claude will guide you through a setup prosses (about 30min for most). Now you have your own personal Coach. Now the coach will be able to start creating your plan. (detailed information under ##usage)
 
 
+
+
+https://github.com/user-attachments/assets/fd103319-f256-4a87-8720-a5207db4d659
 
 https://github.com/user-attachments/assets/348e9f4d-c10a-4824-83c0-6d4f9c21a419
 
