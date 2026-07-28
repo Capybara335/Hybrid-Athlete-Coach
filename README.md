@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/348e9f4d-c10a-4824-83c0-6d4f9c21a419
 Note that the coach activates automatically when you ask about training, sessions, debriefs, pacing, recovery, gear, nutrition, or anything connected to your program  even if you don't address it by name. inside that project or any other chat. 
 
 ### Option B — Claude Code
-You use claude code and go through a similar set up as Option A 
+You use claude code and go through a similar setup as Option A 
 
 ### Option C — Plain Chat
 
