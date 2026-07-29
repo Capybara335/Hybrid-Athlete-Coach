@@ -73,7 +73,6 @@ This is the easiest and most reliable setup for ongoing use.
 4. When you're done with previous steps you write /Coach to use the skill and then add what you want the coach to do or just click enter. (Make sure you use the best model available for you and highest effort for best results)
 5. Now Claude will guide you through a setup process (about 30 min for most). Now you have your own personal Coach. Now the coach will be able to start creating your plan. (detailed information under ## Usage)
 
-https://github.com/user-attachments/assets/fd103319-f256-4a87-8720-a5207db4d659
 
 https://github.com/user-attachments/assets/348e9f4d-c10a-4824-83c0-6d4f9c21a419
 
