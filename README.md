@@ -74,6 +74,9 @@ This is the easiest and most reliable setup for ongoing use.
 5. Now Claude will guide you through a setup process (about 30 min for most). Now you have your own personal Coach. Now the coach will be able to start creating your plan. (detailed information under ## Usage)
 
 
+(Short video guide - longer under the Setupvideo.md)
+
+
 https://github.com/user-attachments/assets/348e9f4d-c10a-4824-83c0-6d4f9c21a419
 
 Note that the coach activates automatically when you ask about training, sessions, debriefs, pacing, recovery, gear, nutrition, or anything connected to your program even if you don't address it by name, inside that project or any other chat.
